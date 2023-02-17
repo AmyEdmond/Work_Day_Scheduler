@@ -10,12 +10,12 @@ Github: https://github.com/AmyEdmond/Work_Day_Scheduler
 
 ## Technology used
 
-HTML
-Bootstrap
-CSS
-JavaScript
-day.js
-jQuery
+* HTML
+* Bootstrap
+* CSS
+* JavaScript
+* day.js
+* jQuery
 
 ## Installation
 
