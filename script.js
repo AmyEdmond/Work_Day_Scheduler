@@ -3,7 +3,7 @@
 $(document).ready(function() {
   //code to display the current date in the header of the page.
   var today = dayjs(); 
-  $('#currentDay').text(today.format('dddd, MMMM D YYYY'));
+  $('#currentDay').text(today.format('dddd, MMMM D YYYY, HH:mm'));
 
   //listener for click events on the save button
   $(".saveBtn").on('click', function() {
