@@ -6,6 +6,7 @@ I created a simple calendar appliocation that allows the user to save events for
 ## Links
 
 Deployed: https://amyedmond.github.io/Work_Day_Scheduler/
+
 Github: https://github.com/AmyEdmond/Work_Day_Scheduler
 
 ## Technology used
